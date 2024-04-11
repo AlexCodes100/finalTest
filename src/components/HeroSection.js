@@ -4,6 +4,7 @@ import { Button } from "./Button";
 import "./HeroSection.css";
 import { Link } from "react-router-dom";
 import mainWebBackground from "./images/Main-Hero-Background.webp";
+import Cards from "./Cards";
 
 function HeroSection() {
   return (
@@ -41,6 +42,7 @@ function HeroSection() {
           Tools
         </Button>
       </div>
+      
     </div>
   );
 }
