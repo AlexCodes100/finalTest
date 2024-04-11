@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testFinal/static/css/main.2cb99beb.css",
-    "main.js": "/testFinal/static/js/main.15645cc6.js",
+    "main.js": "/testFinal/static/js/main.63ab723b.js",
     "static/media/impact.png": "/testFinal/static/media/impact.7801c263aa1807b18262.png",
     "static/media/Main-Hero-Background.webp": "/testFinal/static/media/Main-Hero-Background.16cea784b3b1af3706a4.webp",
     "static/media/ailearnt-logo.png": "/testFinal/static/media/ailearnt-logo.d0b3d3873ba0045e9090.png",
@@ -18,10 +18,10 @@
     "static/media/news.png": "/testFinal/static/media/news.33522235ba155f0ab9f3.png",
     "index.html": "/testFinal/index.html",
     "main.2cb99beb.css.map": "/testFinal/static/css/main.2cb99beb.css.map",
-    "main.15645cc6.js.map": "/testFinal/static/js/main.15645cc6.js.map"
+    "main.63ab723b.js.map": "/testFinal/static/js/main.63ab723b.js.map"
   },
   "entrypoints": [
     "static/css/main.2cb99beb.css",
-    "static/js/main.15645cc6.js"
+    "static/js/main.63ab723b.js"
   ]
 }
